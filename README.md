@@ -2,8 +2,6 @@
 
 💻 **Software Development Student | Full-Stack Development**
 
-🇵🇹 Português | [🇬🇧 English](README.en.md)
-
 Estou em **transição de carreira para a área de Tecnologias de Informação e Desenvolvimento de Software**, atualmente a concluir o curso **Técnico Especialista em Tecnologias e Programação de Sistemas de Informação — IEFP, Nível 5**.
 
 Tenho interesse em **desenvolvimento web, programação, bases de dados, automação, segurança informática, IoT e inteligência artificial**.
