@@ -1,82 +1,82 @@
-# 👋 Hi, I'm António
+# 👋 Olá, eu sou António
 
 💻 **Software Development Student | Full-Stack Development**
 
-[🇵🇹 Português](README.md) | 🇬🇧 English
+🇵🇹 Português | [🇬🇧 English](README.en.md)
 
-I am currently **transitioning my career into Information Technology and Software Development**, while completing a **Level 5 Specialist Technician course in Information Systems Technologies and Programming — IEFP**.
+Estou em **transição de carreira para a área de Tecnologias de Informação e Desenvolvimento de Software**, atualmente a concluir o curso **Técnico Especialista em Tecnologias e Programação de Sistemas de Informação — IEFP, Nível 5**.
 
-I am interested in **web development, programming, databases, automation, cybersecurity, IoT and artificial intelligence**.
+Tenho interesse em **desenvolvimento web, programação, bases de dados, automação, segurança informática, IoT e inteligência artificial**.
 
-I am currently developing academic and personal projects to strengthen my technical skills and build a professional career in **Information Technology and Software Development**.
+Atualmente desenvolvo projetos académicos e pessoais com o objetivo de consolidar os meus conhecimentos e construir uma carreira profissional na área de **Tecnologias de Informação e Desenvolvimento de Software**.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projetos em destaque
 
 ### 🛒 Marketplace Online — Sabaky
 
-An online marketplace developed as an academic and personal project.
+Marketplace online desenvolvido como projeto académico e pessoal.
 
-The goal is to create a platform where users can **publish, search and buy/sell products**, with a modern and secure architecture.
+O objetivo é criar uma plataforma onde os utilizadores possam **publicar, pesquisar e comprar/vender produtos**, com uma estrutura moderna e segura.
 
-**Technologies:**
+**Tecnologias:**
 
 `Next.js` `React` `JavaScript` `Node.js` `Prisma` `PostgreSQL`
 
-🔗 **[Source Code on GitHub](https://github.com/antonio-atp/sabaky)**
+🔗 **[Código no GitHub](https://github.com/antonio-atp/sabaky)**
 
 ---
 
 ### 💊 PharmaHouse
 
-An application concept designed to facilitate **the purchase and delivery of medicines through pharmacies**.
+Conceito de aplicação para facilitar a **compra e entrega de medicamentos através de farmácias**.
 
-The platform allows users to search for products, find pharmacies and manage delivery requests.
+A plataforma permite pesquisar produtos, encontrar farmácias e organizar pedidos de entrega.
 
-**Technologies:**
+**Tecnologias:**
 
 `React` `JavaScript` `Node.js` `MySQL`
 
-🔗 **[Source Code on GitHub](https://github.com/antonio-atp/pharma-house)**
+🔗 **[Código no GitHub](https://github.com/antonio-atp/pharma-house)**
 
 ---
 
-### 🌱 Smart IoT Irrigation System
+### 🌱 Sistema IoT de Rega Inteligente
 
-An academic project based on **Internet of Things (IoT)** for sensor monitoring and automatic decision-making regarding irrigation requirements.
+Projeto académico baseado em **Internet of Things (IoT)** para monitorização de sensores e tomada de decisão automática sobre a necessidade de rega.
 
-The system combines sensors, data processing and a decision-making algorithm.
+O sistema combina sensores, processamento de dados e um algoritmo de decisão.
 
-**Technologies:**
+**Tecnologias:**
 
 `IoT` `Python` `JavaScript` `SQL`
 
-🔗 **[Source Code on GitHub](https://github.com/antonio-atp/iot-sistema-rega)**
+🔗 **[Código no GitHub](https://github.com/antonio-atp/iot-sistema-rega)**
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tecnologias
 
-### 💻 Languages
+### 💻 Linguagens
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,javascript,php,java,c,cpp,html,css" />
 </p>
 
-### ⚙️ Frameworks & Technologies
+### ⚙️ Frameworks e tecnologias
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite,tailwind" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Bases de dados
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
 </p>
 
-### 🔧 Tools
+### 🔧 Ferramentas
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
@@ -84,42 +84,42 @@ The system combines sensors, data processing and a decision-making algorithm.
 
 ---
 
-## 📚 Areas of Knowledge
+## 📚 Áreas de conhecimento
 
-- 🌐 Web Development
-- 🐍 Python Programming
-- ⚡ JavaScript & Node.js
-- ⚛️ React & Next.js
-- 🗄️ Databases
-- 🔐 Cybersecurity
-- 🤖 Artificial Intelligence
+- 🌐 Desenvolvimento Web
+- 🐍 Programação em Python
+- ⚡ JavaScript e Node.js
+- ⚛️ React e Next.js
+- 🗄️ Bases de Dados
+- 🔐 Segurança Informática
+- 🤖 Inteligência Artificial
 - 🌱 Internet of Things
-- 🧪 Software Testing
-- 🔄 Git & GitHub
+- 🧪 Testes de Software
+- 🔄 Git e GitHub
 - 🐧 Linux
-- 📊 Data Analysis & Processing
+- 📊 Análise e processamento de dados
 
 ---
 
-## 🎓 Education
+## 🎓 Formação
 
-### Specialist Technician in Information Systems Technologies and Programming
+### Técnico Especialista em Tecnologias e Programação de Sistemas de Informação
 
-**IEFP — Level 5**
+**IEFP — Nível 5**
 
 **2025 — 2026**
 
-Main areas:
+Principais áreas:
 
-- Programming
-- Databases
-- Information Systems
-- Networks & Security
-- Computer Architecture
-- Artificial Intelligence
-- Multimedia Systems
-- Numerical Computing
-- Application Development
+- Programação
+- Bases de Dados
+- Sistemas de Informação
+- Redes e Segurança
+- Arquitetura de Computadores
+- Inteligência Artificial
+- Sistemas Multimédia
+- Computação Numérica
+- Desenvolvimento de Aplicações
 
 ---
 
@@ -132,28 +132,28 @@ Main areas:
 
 ---
 
-## 🎯 Currently
+## 🎯 Atualmente
 
-🔭 Developing programming projects and web applications
+🔭 A desenvolver projetos de programação e aplicações web
 
-🌱 Improving my skills in **Python, JavaScript, React, Next.js, Node.js and Databases**
+🌱 A aprofundar conhecimentos em **Python, JavaScript, React, Next.js, Node.js e Bases de Dados**
 
-📚 Completing my **Level 5 Specialist Technician course in Information Systems Technologies and Programming**
+📚 A concluir o curso **Técnico Especialista em Tecnologias e Programação de Sistemas de Informação**
 
-💼 Interested in **internship and software development opportunities**
+💼 Interessado em oportunidades de **estágio e desenvolvimento de software**
 
 ---
 
-## 📫 Contact
+## 📫 Contacto
 
 💻 **GitHub:** [github.com/antonio-atp](https://github.com/antonio-atp)
 
-💼 **LinkedIn:** Coming soon
+💼 **LinkedIn:** Em breve
 
-🌐 **Portfolio:** Coming soon
+🌐 **Portfólio:** Em breve
 
 ---
 
 <p align="center">
-  <b>🚀 Always learning. Always building.</b>
+  <b>🚀 Sempre a aprender. Sempre a construir.</b>
 </p>
