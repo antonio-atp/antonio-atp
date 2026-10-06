@@ -1,157 +1,65 @@
-# 👋 Olá, eu sou António
+# António Pacheco
 
-💻 **Software Development Student | Full-Stack Development**
+Em transição de carreira para a área de Tecnologias de Informação e Desenvolvimento de Software. Atualmente a concluir o curso Técnico Especialista em Tecnologias e Programação de Sistemas de Informação (IEFP, Nível 5).
 
-Estou em **transição de carreira para a área de Tecnologias de Informação e Desenvolvimento de Software**, atualmente a concluir o curso **Técnico Especialista em Tecnologias e Programação de Sistemas de Informação — IEFP, Nível 5**.
+Tenho interesse em desenvolvimento web, programação, bases de dados, segurança informática, IoT, inteligência artificial e automação.
 
-Tenho interesse em **desenvolvimento web, programação, bases de dados, automação, segurança informática, IoT e inteligência artificial**.
+Atualmente desenvolvo projetos académicos e pessoais para aplicar e aprofundar os meus conhecimentos em programação e desenvolvimento de sistemas.
 
-Atualmente desenvolvo projetos académicos e pessoais com o objetivo de consolidar os meus conhecimentos e construir uma carreira profissional na área de **Tecnologias de Informação e Desenvolvimento de Software**.
+**GitHub:** [antonio-atp](https://github.com/antonio-atp)
 
----
+## Projetos em destaque
 
-## 🚀 Projetos em destaque
+### Aplicações e sistemas web
 
-### 🛒 Marketplace Online — Sabaky
+- **[Marketplace Online — Sabaky](https://github.com/antonio-atp/sabaky)** - plataforma de marketplace para publicação, pesquisa e compra/venda de produtos. Next.js, React, JavaScript, Node.js, Prisma e PostgreSQL.
 
-Marketplace online desenvolvido como projeto académico e pessoal.
+- **[PharmaHouse](https://github.com/antonio-atp/pharma-house)** - conceito de aplicação para compra e entrega de medicamentos através de farmácias. React, JavaScript, Node.js e MySQL.
 
-O objetivo é criar uma plataforma onde os utilizadores possam **publicar, pesquisar e comprar/vender produtos**, com uma estrutura moderna e segura.
+- **[Sistema IoT de Rega Inteligente](https://github.com/antonio-atp/iot-sistema-rega)** - sistema baseado em IoT para monitorização de sensores e decisão automática sobre a necessidade de rega. Python, JavaScript e SQL.
 
-**Tecnologias:**
+### Programação e Bases de Dados
 
-`Next.js` `React` `JavaScript` `Node.js` `Prisma` `PostgreSQL`
+- **[Projetos Python](https://github.com/antonio-atp)** - exercícios e aplicações desenvolvidos em Python, incluindo programação, automação, processamento de dados e APIs.
 
-🔗 **[Código no GitHub](https://github.com/antonio-atp/sabaky)**
+- **[Projetos SQL](https://github.com/antonio-atp)** - projetos académicos relacionados com bases de dados, modelação, SQL, MySQL e gestão de informação.
 
----
+- **[Projetos de Segurança Informática](https://github.com/antonio-atp)** - trabalhos académicos relacionados com segurança de redes, OWASP e segurança de sistemas.
 
-### 💊 PharmaHouse
+## Stack
 
-Conceito de aplicação para facilitar a **compra e entrega de medicamentos através de farmácias**.
+- **Linguagens:** Python · JavaScript · PHP · Java · C · C++ · SQL · HTML · CSS
+- **Frameworks:** React · Next.js · Node.js · Vite · Tailwind CSS
+- **Bases de dados:** MySQL · PostgreSQL · SQLite
+- **Programação:** APIs · Programação Orientada a Objetos · Estruturas de Dados
+- **IoT e IA:** Internet of Things · Machine Learning · Algoritmos de decisão
+- **Ferramentas:** Git · GitHub · VS Code · Linux · Ubuntu
+- **Outros:** Prisma · REST API · JSON · Testes de Software
 
-A plataforma permite pesquisar produtos, encontrar farmácias e organizar pedidos de entrega.
+## Formação
 
-**Tecnologias:**
+- **Técnico Especialista em Tecnologias e Programação de Sistemas de Informação**, IEFP — Nível 5 (2025/2026)
+- **Projetos académicos** nas áreas de Programação, Bases de Dados, Segurança, Redes, Inteligência Artificial, IoT e Sistemas de Informação.
 
-`React` `JavaScript` `Node.js` `MySQL`
+## Áreas de interesse
 
-🔗 **[Código no GitHub](https://github.com/antonio-atp/pharma-house)**
-
----
-
-### 🌱 Sistema IoT de Rega Inteligente
-
-Projeto académico baseado em **Internet of Things (IoT)** para monitorização de sensores e tomada de decisão automática sobre a necessidade de rega.
-
-O sistema combina sensores, processamento de dados e um algoritmo de decisão.
-
-**Tecnologias:**
-
-`IoT` `Python` `JavaScript` `SQL`
-
-🔗 **[Código no GitHub](https://github.com/antonio-atp/iot-sistema-rega)**
-
----
-
-## 🛠️ Tecnologias
-
-### 💻 Linguagens
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,php,java,c,cpp,html,css" />
-</p>
-
-### ⚙️ Frameworks e tecnologias
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite,tailwind" />
-</p>
-
-### 🗄️ Bases de dados
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
-</p>
-
-### 🔧 Ferramentas
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
----
-
-## 📚 Áreas de conhecimento
-
-- 🌐 Desenvolvimento Web
-- 🐍 Programação em Python
-- ⚡ JavaScript e Node.js
-- ⚛️ React e Next.js
-- 🗄️ Bases de Dados
-- 🔐 Segurança Informática
-- 🤖 Inteligência Artificial
-- 🌱 Internet of Things
-- 🧪 Testes de Software
-- 🔄 Git e GitHub
-- 🐧 Linux
-- 📊 Análise e processamento de dados
-
----
-
-## 🎓 Formação
-
-### Técnico Especialista em Tecnologias e Programação de Sistemas de Informação
-
-**IEFP — Nível 5**
-
-**2025 — 2026**
-
-Principais áreas:
-
-- Programação
+- Desenvolvimento Web
+- Desenvolvimento Full-Stack
+- Python
+- JavaScript
+- React e Next.js
+- Node.js
 - Bases de Dados
-- Sistemas de Informação
-- Redes e Segurança
-- Arquitetura de Computadores
+- Segurança Informática
 - Inteligência Artificial
-- Sistemas Multimédia
-- Computação Numérica
-- Desenvolvimento de Aplicações
+- IoT
+- Automação
+- Desenvolvimento de APIs
+
+## Contacto
+
+[GitHub](https://github.com/antonio-atp) · LinkedIn · Portfólio
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antonio-atp&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-atp&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🎯 Atualmente
-
-🔭 A desenvolver projetos de programação e aplicações web
-
-🌱 A aprofundar conhecimentos em **Python, JavaScript, React, Next.js, Node.js e Bases de Dados**
-
-📚 A concluir o curso **Técnico Especialista em Tecnologias e Programação de Sistemas de Informação**
-
-💼 Interessado em oportunidades de **estágio e desenvolvimento de software**
-
----
-
-## 📫 Contacto
-
-💻 **GitHub:** [github.com/antonio-atp](https://github.com/antonio-atp)
-
-💼 **LinkedIn:** Em breve
-
-🌐 **Portfólio:** Em breve
-
----
-
-<p align="center">
-  <b>🚀 Sempre a aprender. Sempre a construir.</b>
-</p>
+**🚀 Sempre a aprender. Sempre a construir.**
