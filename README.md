@@ -14,8 +14,6 @@ Atualmente desenvolvo projetos académicos e pessoais para aplicar e aprofundar 
 
 - **[Marketplace Online — Sabaky](https://github.com/antonio-atp/sabaky)** - plataforma de marketplace para publicação, pesquisa e compra/venda de produtos. Next.js, React, JavaScript, Node.js, Prisma e PostgreSQL.
 
-- **[PharmaHouse](https://github.com/antonio-atp/pharma-house)** - conceito de aplicação para compra e entrega de medicamentos através de farmácias. React, JavaScript, Node.js e MySQL.
-
 - **[Sistema IoT de Rega Inteligente](https://github.com/antonio-atp/iot-sistema-rega)** - sistema baseado em IoT para monitorização de sensores e decisão automática sobre a necessidade de rega. Python, JavaScript e SQL.
 
 ### Programação e Bases de Dados
