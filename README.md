@@ -22,8 +22,6 @@ Atualmente desenvolvo projetos académicos e pessoais para aplicar e aprofundar 
 
 - **[Projetos SQL](https://github.com/antonio-atp)** - projetos académicos relacionados com bases de dados, modelação, SQL, MySQL e gestão de informação.
 
-- **[Projetos de Segurança Informática](https://github.com/antonio-atp)** - trabalhos académicos relacionados com segurança de redes, OWASP e segurança de sistemas.
-
 ## Stack
 
 - **Linguagens:** Python · JavaScript · PHP · Java · C · C++ · SQL · HTML · CSS
