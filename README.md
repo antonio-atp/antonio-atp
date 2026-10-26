@@ -20,7 +20,7 @@ Atualmente desenvolvo projetos académicos e pessoais para aplicar e aprofundar 
 
 - **[Projetos Python](https://github.com/antonio-atp)** - exercícios e aplicações desenvolvidos em Python, incluindo programação, automação, processamento de dados e APIs.
 
-- **[Projetos SQL]([https://github.com/antonio-atp/nationsTableSQL])** - projetos académicos relacionados com bases de dados, modelação, SQL, MySQL e gestão de informação.
+- **[Projetos SQL](https://github.com/antonio-atp/nationsTableSQL)** - projetos académicos relacionados com bases de dados, modelação, SQL, MySQL e gestão de informação.
 
 ## Stack
 
