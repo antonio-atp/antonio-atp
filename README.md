@@ -1,6 +1,6 @@
 # António Pacheco
 
-Em transição de carreira para a área de Tecnologias de Informação e Desenvolvimento de Software. Atualmente a concluir o curso Técnico Especialista em Tecnologias e Programação de Sistemas de Informação (IEFP, Nível 5).
+Em transição para a área de Tecnologias de Informação e Desenvolvimento de Software. Atualmente a concluir o curso Técnico Especialista em Tecnologias e Programação de Sistemas de Informação (IEFP, Nível 5).
 
 Tenho interesse em desenvolvimento web, programação, bases de dados, segurança informática, IoT, inteligência artificial e automação.
 
